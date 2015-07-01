@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/kawabata/AndroidStudioProjects/StudySQLite_ListViewFor0609/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/Users/kawabata/AndroidStudioProjects/StudySQLite_ListViewFor0609/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-45e261015b440192cd3a03c8cc92041bb8f60012.jar" />
+    </item>
+    <item
+        jar="/Users/kawabata/AndroidStudioProjects/**GitHub/TeamDevelopTest01/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/Users/kawabata/AndroidStudioProjects/**GitHub/TeamDevelopTest01/app/build/intermediates/pre-dexed/debug/classes-5dc0834ba27d309ee6e32367ee526057903eda87.jar" />
+    </item>
+    <item
+        jar="/Users/kawabata/AndroidStudioProjects/StudySQLite_ListViewFor0609/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/Users/kawabata/AndroidStudioProjects/StudySQLite_ListViewFor0609/app/build/intermediates/pre-dexed/debug/classes-c6d8f57ce732ebe4ea51a0d2979c8d3c0717690a.jar" />
+    </item>
+    <item
+        jar="/Users/kawabata/AndroidStudioProjects/StudySQLite_ListViewFor0526/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/Users/kawabata/AndroidStudioProjects/StudySQLite_ListViewFor0526/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-6a41a73d63ba6d4e3d2ec0fdf75c517547dfa9f5.jar" />
+    </item>
+    <item
+        jar="/Users/kawabata/AndroidStudioProjects/StudySQLite_ListViewForGitHubTest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/Users/kawabata/AndroidStudioProjects/StudySQLite_ListViewForGitHubTest/app/build/intermediates/pre-dexed/debug/classes-16863b80148bb77fb30e47c085445c6bb2f9f990.jar" />
+    </item>
+    <item
+        jar="/Users/kawabata/AndroidStudioProjects/**GitHub/TeamDevelopTest01/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/Users/kawabata/AndroidStudioProjects/**GitHub/TeamDevelopTest01/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-4db77dcab8959ff67acfac320aecbc8303a98940.jar" />
+    </item>
+    <item
+        jar="/Users/kawabata/AndroidStudioProjects/StudySQLite_ListViewFor0526/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/Users/kawabata/AndroidStudioProjects/StudySQLite_ListViewFor0526/app/build/intermediates/pre-dexed/debug/classes-aae948835e58e704fa0c6fe7e6e151f3fb559752.jar" />
+    </item>
+    <item
+        jar="/Users/kawabata/AndroidStudioProjects/StudySQLite_ListViewFor0609/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/Users/kawabata/AndroidStudioProjects/StudySQLite_ListViewFor0609/app/build/intermediates/pre-dexed/debug/classes-486bd5d7a82c8a8bd322b9fe34f8eea92b334fe4.jar" />
+    </item>
+    <item
+        jar="/Users/kawabata/AndroidStudioProjects/**GitHub/TeamDevelopTest01/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/Users/kawabata/AndroidStudioProjects/**GitHub/TeamDevelopTest01/app/build/intermediates/pre-dexed/debug/classes-6986fe90ff687b9df862453983e100eb498b4c54.jar" />
+    </item>
+    <item
+        jar="/Users/kawabata/AndroidStudioProjects/StudySQLite_ListViewFor0526/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/Users/kawabata/AndroidStudioProjects/StudySQLite_ListViewFor0526/app/build/intermediates/pre-dexed/debug/classes-bfcb694d9e20f992247a11778ba43ce8e35ecb3c.jar" />
+    </item>
+    <item
+        jar="/Users/kawabata/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="/Users/kawabata/AndroidStudioProjects/StudySQLite_ListViewFor0526/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-762508faab6d563c94058a09589d3e2a8fc833f3.jar" />
+    </item>
+    <item
+        jar="/Users/kawabata/AndroidStudioProjects/StudySQLite_ListViewForGitHubTest/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/Users/kawabata/AndroidStudioProjects/StudySQLite_ListViewForGitHubTest/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-bb55ad04b1017ce1e513b5617d5500aa4ef454fe.jar" />
+    </item>
+    <item
+        jar="/Users/kawabata/AndroidStudioProjects/StudySQLite_ListViewForGitHubTest/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/Users/kawabata/AndroidStudioProjects/StudySQLite_ListViewForGitHubTest/app/build/intermediates/pre-dexed/debug/classes-d0316d955d4bf3e5ddb7114ddd010dfa1cbeeff1.jar" />
+    </item>
+
+</items>
