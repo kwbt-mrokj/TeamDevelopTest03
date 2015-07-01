@@ -1,12 +1,16 @@
 package com.example.kawabata.studysqlite_listviewfor0526;
 
 import android.app.Activity;
+import android.content.Intent;
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.view.View;
+import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
+import android.widget.TextView;
 
 
 public class OtsuboActivity extends Activity {
@@ -45,10 +49,40 @@ public class OtsuboActivity extends Activity {
         super.onStart();
 
         myListView = (ListView)findViewById(R.id.listView);
-        
-        String[] title = {null};
 
+        String[] title = {
+                "Isobe",
+                "Otsubo",
+                "Kato",
+                "Shimazawa",
+                "Yoshida",
+                "Awaji",
+                "Ito",
+                "Gomibuchi",
+                "Nagahora",
+                "Kodate",
+                "Odagiri",
+                "Sunako",
+                "Wada",
+                "Test",
+                "KawaTest"};
 
         ArrayAdapter<String> adapter = new ArrayAdapter<String>(OtsuboActivity.this, R.layout.listitem_layout, title);
+
+        myListView.setAdapter(adapter);
+
+        myListView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+            @Override
+            public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
+
+                String transName = ((TextView) view).getText().toString();
+
+                Intent intent = new Intent(Intent.ACTION_VIEW);
+                intent.setAction(transName);
+
+                startActivity(intent);
+
+            }
+        });
     }
 }
