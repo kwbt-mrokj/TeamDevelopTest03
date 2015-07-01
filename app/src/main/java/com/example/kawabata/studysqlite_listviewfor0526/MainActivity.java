@@ -47,6 +47,7 @@ public class MainActivity extends Activity {
                 "Kodate",
                 "Odagiri",
                 "Sunako",
+                "Wada",
                 "Test",
                 "KawaTest"
         };
