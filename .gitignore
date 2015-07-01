@@ -1,0 +1,14 @@
+*.lock
+*.lock
+*.bin
+.gradle/2.2.1/taskArtifacts/cache.properties.lock
+*.lock
+*.bin
+*.name
+.idea/gradle.xml
+.idea/libraries/appcompat_v7_22_1_1.xml
+.idea/libraries/support_v4_22_1_1.xml
+.idea/workspace.xml
+*.iml
+build/intermediates/gradle_project_sync_data.bin
+*.properties
