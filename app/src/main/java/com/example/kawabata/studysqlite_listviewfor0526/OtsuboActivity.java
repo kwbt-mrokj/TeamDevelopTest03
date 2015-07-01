@@ -1,12 +1,17 @@
 package com.example.kawabata.studysqlite_listviewfor0526;
 
+import android.app.Activity;
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.widget.ArrayAdapter;
+import android.widget.ListView;
 
 
-public class OtsuboActivity extends ActionBarActivity {
+public class OtsuboActivity extends Activity {
+
+    private ListView myListView;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -34,5 +39,16 @@ public class OtsuboActivity extends ActionBarActivity {
         }
 
         return super.onOptionsItemSelected(item);
+    }
+
+    public void onStart() {
+        super.onStart();
+
+        myListView = (ListView)findViewById(R.id.listView);
+        
+        String[] title = {null};
+
+
+        ArrayAdapter<String> adapter = new ArrayAdapter<String>(OtsuboActivity.this, R.layout.listitem_layout, title);
     }
 }
