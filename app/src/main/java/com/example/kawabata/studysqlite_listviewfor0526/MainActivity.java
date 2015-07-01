@@ -47,7 +47,8 @@ public class MainActivity extends Activity {
                 "Kodate",
                 "Odagiri",
                 "Sunako",
-                "Test"
+                "Test",
+                "KawaTest"
         };
 
         // アダプターの生成

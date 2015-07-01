@@ -22,10 +22,19 @@
         </activity>
         <activity
             android:name=".TestActivity"
-
             android:label="@string/title_activity_test" >
             <intent-filter>
                 <action android:name="Test" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".KawaTestActivity"
+            android:label="@string/title_activity_kawa_test" >
+            <intent-filter>
+                <action android:name="KawaTest" />
+
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
