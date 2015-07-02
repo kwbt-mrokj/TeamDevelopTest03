@@ -43,8 +43,13 @@
             android:label="@string/title_activity_isobe" >
             <intent-filter>
                 <action android:name="Isobe" />
+
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
+        </activity>
+        <activity
+            android:name=".Test2Activity"
+            android:label="@string/title_activity_test2" >
         </activity>
     </application>
 

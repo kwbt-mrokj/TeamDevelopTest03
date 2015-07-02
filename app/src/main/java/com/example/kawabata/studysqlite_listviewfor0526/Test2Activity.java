@@ -1,24 +1,23 @@
 package com.example.kawabata.studysqlite_listviewfor0526;
 
-import android.app.Activity;
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
 
 
-public class KawaTestActivity extends Activity {
+public class Test2Activity extends ActionBarActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_kawa_test);
+        setContentView(R.layout.activity_test2);
     }
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.
-        getMenuInflater().inflate(R.menu.menu_kawa_test, menu);
+        getMenuInflater().inflate(R.menu.menu_test2, menu);
         return true;
     }
 
