@@ -49,7 +49,7 @@
         </activity>
         <activity
             android:name=".Test2Activity"
-            android:label="@string/title_activity_test2" >
+            android:label="" >
         </activity>
     </application>
 
